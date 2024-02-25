@@ -9,4 +9,5 @@ int gcd(int a, int b)
         else
             b = b - a;
     }
+    std::cout << a << std::endl;
 }
